@@ -1,2 +1,2 @@
-# GoLoger
-Simple loger for golang
+# GoLogger
+Simple logger for golang
